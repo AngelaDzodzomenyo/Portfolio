@@ -2,7 +2,7 @@
 
 ## This is my portfolio where you can learn a bit about me! Stay awhile!
 
-## You can find me [here](https://dzodzo-portfolio.netlify.app/)!
+## My deployed site [here](https://dzodzo-portfolio.netlify.app/)!
 
 --------------
 

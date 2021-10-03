@@ -81,11 +81,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full-Stack JavaScript Software Developer",
+        "years": "07.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          " JavaScript 07/23/2021"
         ],
         "technologies": [
           "REST API",
@@ -100,18 +100,18 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Electronics Repair",
+        "title": "Electronics Assembler",
+        "years": "11.2019 - 11.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Schematics and soldering iron"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "hand tools",
+          "electronic devices",
+          "toys",
+          "circuit boards",
+          "measuring devices"
         ]
       }
     ]
