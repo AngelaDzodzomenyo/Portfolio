@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Angela Dzodzomenyo. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello! I am Angela Dzodzomenyo, a software developer.",
+      "description": "👋 I have a background in electronics assemblage and customer service. Some of the current tools I am working with are JavaScript, GitHub, React, Bootstrap, HTML5, CSS, git and more! Thank you for visitng my site! 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Spondora",
+        "startDate": "2021",
+        "description": "An app that recommends music based on user selections.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://theflatfour.github.io/Spondora/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Gallery of Horns",
+        "startDate": "2021",
+        "description": "User can favorite and select the different types of beasts according to the number of horns they have. Once selected, the horned beast will be displayed for your viewing pleasure.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/AngelaDzodzomenyo/gallery-of-horns",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +55,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Bus Mall",
+        "startDate": "2021",
+        "description": "If you have received the link to this site it is because you are participating in a focus group designed to help a company and their buyers select what items to sell on their webpage. Please take your time with each selection. We are keeping tabs on the number of time a product is selected.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/AngelaDzodzomenyo/busmall",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
